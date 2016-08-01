@@ -2,4 +2,4 @@
 Fake repo for testing github integration
 
 ## About
-This is my repo test c
+This is my repo test.
